@@ -4,13 +4,13 @@ this repo is a clone of
 https://github.com/miguelgrinberg/flasky
 
 # Activity 1
-![Activity 1](Screenshot3-1.PNG)
+![Activity 1](Screenshot_3-1.PNG)
 
 # Activity 2
-![Activity 2](Screenshot3-2.PNG)
-![Activity 2](Screenshot3-3.PNG)
-![Activity 2](Screenshot3-4.PNG)
-![Activity 2](Screenshot3-5.PNG)
+![Activity 2](Screenshot_3-2.PNG)
+![Activity 2](Screenshot_3-3.PNG)
+![Activity 2](Screenshot_3-4.PNG)
+![Activity 2](Screenshot_3-5.PNG)
 
 # Activity 3
 
