@@ -14,3 +14,5 @@ https://github.com/miguelgrinberg/flasky
 
 # Activity 3
 
+SQL databases follows a relational model, and can store structured data more efficiently.
+NoSQL databases does not follow the relational model, and could have a edge in performance.
