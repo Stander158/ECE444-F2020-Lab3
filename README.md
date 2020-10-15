@@ -12,9 +12,9 @@ Run `docker run -d -p 5000:5000 flask-sample` in terminal.
 Dockerfile, requirement.txt is in Lab4\.
 
 # Activity 2
-![Activity 2](ScreenShot4-1.PNG)
-![Activity 2](ScreenShot4-2.PNG)
-![Activity 2](ScreenShot4-3.PNG)
+![Activity 2](Screenshot_4-1.PNG)
+![Activity 2](Screenshot_4-2.PNG)
+![Activity 2](Screenshot_4-3.PNG)
 
 # Activity 3
 A Docker container image only needs to load what is required for a specific program. It is standalone, and lightweight.
