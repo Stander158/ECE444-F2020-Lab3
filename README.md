@@ -17,8 +17,4 @@ Dockerfile, requirement.txt is in Lab4\.
 ![Activity 2](Screenshot_4-3.PNG)
 
 # Activity 3
-A Docker container image only needs to load what is required for a specific program. It is standalone, and lightweight.
-
-A Virtual Machine, on the other hand, hold everything that runs an operating system. Multiple docker images can be run inside of one virtual machine.
-
-Virtual Machines takes a long time to load, and is much heavier than a typical docker image, while a docker container image is very portable and versatile compared to using virtual machines for developing a small project.
+A Docker container image only needs to load what is required for a specific program. It is standalone, and lightweight. A Virtual Machine, on the other hand, hold everything that runs an operating system. Multiple docker images can be run inside of one virtual machine. Furthermore, Virtual Machines takes a long time to load, and is much heavier than a typical docker image, while a docker container image is very portable and versatile compared to using virtual machines for developing a small project.
